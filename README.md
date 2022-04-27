@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @turality
 - 👀 I’m interested in Backend Development and programming in general. 
 - 🌱 I’m currently learning Django which is a framework of python.
+- 💞️ I’m looking to collaborate on some interesting projects in Django and Python.
+- You can send me an email at "muradlitural799@gmail.com".
